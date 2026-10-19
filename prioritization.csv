@@ -1,0 +1,6 @@
+feature,illustrative_reach_per_week,impact_score,confidence,effort_person_weeks,rice_score
+Exception visibility,100,3,0.8,2,120.0
+Ownership and action tracking,80,3,0.7,2,84.0
+Message drafts,60,2,0.6,2,36.0
+Bulk actions,50,2,0.5,4,12.5
+Predictive alerts,100,3,0.2,10,6.0

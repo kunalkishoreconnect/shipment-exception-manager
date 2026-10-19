@@ -1,0 +1,1 @@
+All RICE inputs are illustrative assumptions, not research findings. Reach means hypothetical affected users/week; effort means person-weeks. Scores establish a discussion order, not proven ROI. Validate assumptions before resource allocation. Visibility and ownership precede automation because actions need reliable source data and accountable operators.
